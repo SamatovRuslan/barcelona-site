@@ -30,7 +30,6 @@ Darwin, 55
   - if match.status = 'LIVE' => display red circle
   - else => display green circle
 
-
 ## Add a page for single Match
 
 - Add links to each match in the matches page
@@ -38,7 +37,7 @@ Darwin, 55
 - Use `react-router` like in the last project
 - Make match page detail like you want
 
-
 ## If you want more information about matches go to this documentation and see what you can find:
 
 https://www.football-data.org/documentation/quickstart
+
