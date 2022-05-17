@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/barcelona-site/static/css/main.5e931954.chunk.css",
+    "main.js": "/barcelona-site/static/js/main.0a0cd25b.chunk.js",
+    "main.js.map": "/barcelona-site/static/js/main.0a0cd25b.chunk.js.map",
+    "runtime-main.js": "/barcelona-site/static/js/runtime-main.59957c48.js",
+    "runtime-main.js.map": "/barcelona-site/static/js/runtime-main.59957c48.js.map",
+    "static/js/2.d815e7a0.chunk.js": "/barcelona-site/static/js/2.d815e7a0.chunk.js",
+    "static/js/2.d815e7a0.chunk.js.map": "/barcelona-site/static/js/2.d815e7a0.chunk.js.map",
+    "index.html": "/barcelona-site/index.html",
+    "static/css/main.5e931954.chunk.css.map": "/barcelona-site/static/css/main.5e931954.chunk.css.map",
+    "static/js/2.d815e7a0.chunk.js.LICENSE.txt": "/barcelona-site/static/js/2.d815e7a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59957c48.js",
+    "static/js/2.d815e7a0.chunk.js",
+    "static/css/main.5e931954.chunk.css",
+    "static/js/main.0a0cd25b.chunk.js"
+  ]
+}
